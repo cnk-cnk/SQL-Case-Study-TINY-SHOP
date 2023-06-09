@@ -2,7 +2,7 @@
 Below are the different topic discussed in the case study. The PDF file contains the project and sql files the sql code.
 
 ## TABLE
-> 1 Tiny shop sales
+ > 1 Tiny shop sales
 > 1.1 Audit 
 > 1.2 Technical report 
 > 1.3 Organizational flow model (OFM)
