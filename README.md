@@ -1,7 +1,7 @@
 # SQL-Case-Study-TINY-SHOP
-Below are the different topics discussed in the case study. The PDF file contains the project and SQL files the SQL code.
+Below are the different topics discussed in the case study. The PDF file contains a summary of the project and SQL files the SQL code.
 
-## TABLE
+## The different topics dealt in the project
 * 1 Tiny shop sales 
 * 1.1 Audit 
 * 1.2 Technical report 
